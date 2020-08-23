@@ -1,6 +1,6 @@
 # Aymen Dirar's GitHub 👨🏾‍💻
 
-Hey, thanks for visiting my GitHub profile! Feel free to browse the different repos I have posted and check out my personal website at adirar111.github.io!
+Hey, thanks for visiting my GitHub profile! Feel free to browse the different repos I have posted and check out my [personal website](https://adirar111.github.io)!
 
 ### A quick look 👀
 
