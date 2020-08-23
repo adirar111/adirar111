@@ -1,16 +1,22 @@
-### Hi there 👋
+# Aymen Dirar 👨🏾‍💻
 
-<!--
-**adirar111/adirar111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏾 Hey, thanks for visiting my GitHub profile! Feel free to browse the different repos I have posted and check out my personal website at adirar111.github.io!
 
-Here are some ideas to get you started:
+### A quick look 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "name": "aymen dirar",
+    "pronouns": "he/him",
+    "studying": "cs @ubc",
+    "year": 2,
+    "programming languages": [
+        "java",
+        "python",
+        "javascript",
+        "html/css",
+        "c/c++"
+    ],
+    "lifelong learner": true
+}
+```
