@@ -1,22 +1,3 @@
-# Aymen Dirar's GitHub 👨🏾‍💻
-
-Hey, thanks for visiting my GitHub profile! Feel free to browse the different repos I have posted and check out my [personal website](https://adirar111.github.io)!
-
-### A quick look 👀
-
-```json
-{
-    "name": "aymen dirar",
-    "pronouns": "he/him",
-    "studying": "cs @ubc",
-    "year": 2,
-    "programming languages": [
-        "java",
-        "python",
-        "javascript",
-        "html/css",
-        "c/c++"
-    ],
-    "lifelong learner": true
-}
-```
+<div align="center">
+    <img src="https://i.pinimg.com/originals/bd/d3/ee/bdd3ee0f95f016adf74f6c87dd0cd32c.gif" width="450">
+</div>
